@@ -14,8 +14,8 @@ body {
 
 main,
 header {
-	max-width: 1200px;
-	margin: auto;
+	max-width: 768px;
+	margin: 0px auto;
 }
 
 body,
